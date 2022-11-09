@@ -10,3 +10,6 @@ new line
 
 some more stuff
 
+*************
+
+This is new text for the main or master branch
