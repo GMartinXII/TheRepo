@@ -19,3 +19,7 @@ but this new text is from the one branch
 2222222222222222222222222
 
 new text on secondBranch
+
+
+
+more more conflict
